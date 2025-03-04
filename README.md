@@ -10,3 +10,27 @@ Background GIF by [Unknown](https://www.reddit.com/r/PixelArt/comments/qcso5p/oc
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/seanyhu01/) &nbsp;
 
 </div>
+
+<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me</h2>
+
+```yaml
+name: Sean Hu
+education:
+  [
+    B.S. in Computer Science
+  ]
+located_in: San Mateo, CA
+current_job: Software Engineer
+company: Roblox
+
+fields_of_interests:
+  [
+    "Full Stack Development",
+    "Game Development",
+    "Cloud Architecture"
+  ]
+currently_learning: ["Win32/Direct2D, C++"]
+2025 Goals: ["Create a basic graphics engine."]
+
+hobbies: ["Gaming", "Bouldering", "Badminton", "Building PCs and Mechanical Keyboards", "Collecting Pokémon Cards"]
+```

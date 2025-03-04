@@ -4,10 +4,8 @@
 
 <div align="center">
 
-[![Hello World, I'm Sean!](assets/header(1).gif)](https://github.com/seanyhu01)
+[![](assets/header(1).gif)](https://github.com/seanyhu01)
 Background GIF by [Unknown](https://www.reddit.com/r/PixelArt/comments/qcso5p/oc_last_tree/).
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/seanyhu01/) &nbsp;
 
 </div>
 
@@ -34,3 +32,5 @@ currently_learning: ["Win32/Direct2D, C++"]
 
 hobbies: ["Gaming", "Bouldering", "Badminton", "Building PCs and Mechanical Keyboards", "Collecting Pokémon Cards"]
 ```
+
+<h2> 📈 &nbsp;My Tech Stack</h2>

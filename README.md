@@ -44,10 +44,6 @@ hobbies: ["Gaming", "Bouldering", "Badminton", "Building PCs and Mechanical Keyb
 
   ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
   ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-  ![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
-  ![3DS](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)
-  ![Wii](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)
-  ![Gamecube](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)
   <br>
   ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
   ![Twitch](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)

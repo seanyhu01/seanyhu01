@@ -34,3 +34,7 @@ hobbies: ["Gaming", "Bouldering", "Badminton", "Building PCs and Mechanical Keyb
 ```
 
 <h2> 📈 &nbsp;My Tech Stack</h2>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>

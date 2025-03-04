@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![](assets/header(1).gif)](https://github.com/seanyhu01)
+[![Sakura](assets/header(1).gif)](https://github.com/seanyhu01)
 Background GIF by [Unknown](https://www.reddit.com/r/PixelArt/comments/qcso5p/oc_last_tree/).
 
 </div>
@@ -27,13 +27,17 @@ fields_of_interests:
     "Game Development",
     "Cloud Architecture"
   ]
-currently_learning: ["Win32/Direct2D, C++"]
+currently_learning: ["Win32/Direct2D"]
 2025 Goals: ["Create a basic graphics engine."]
 
 hobbies: ["Gaming", "Bouldering", "Badminton", "Building PCs and Mechanical Keyboards", "Collecting Pokémon Cards"]
 ```
-
-<h2> 📈 &nbsp;My Tech Stack</h2>
+  
+## 📈 &nbsp;My Tech Stack
+<div align="center">
+  
+  [![My Skills](https://skillicons.dev/icons?i=aws,py,c,cpp,java,js,react,vue,kotlin,r)](https://skillicons.dev)
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>

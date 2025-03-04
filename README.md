@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
+</p>
+
 <div align="center">
 
 [![Hello World, I'm Sean!](assets/header(1).gif)](https://github.com/seanyhu01)

@@ -15,7 +15,7 @@ Background GIF by [Unknown](https://www.reddit.com/r/PixelArt/comments/qcso5p/oc
 name: Sean Hu
 education:
   [
-    B.S. in Computer Science
+    B.S. in Computer Science from University of Maryland
   ]
 located_in: San Mateo, CA
 current_job: Software Engineer

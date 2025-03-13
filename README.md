@@ -27,7 +27,7 @@ fields_of_interests:
     "Game Development",
     "Cloud Architecture"
   ]
-currently_learning: ["Win32/Direct2D"]
+currently_learning: ["Win32/Direct2D, Colemak"]
 2025 Goals: ["Create a basic graphics engine."]
 
 hobbies: ["Gaming", "Bouldering", "Badminton", "Building PCs and Mechanical Keyboards", "Collecting Pokémon Cards"]
